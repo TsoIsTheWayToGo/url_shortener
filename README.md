@@ -1,0 +1,2 @@
+# URL Shortener
+Have you ever used a url shortener? The most common ones is bitly. One day I was using bitly and I thought to myself, I wonder how this works, So I decided to build my own url shortening service. 
