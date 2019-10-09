@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-type: application/json
+
+{
+  "longUrl": "https://www.amazon.com/Bones-Swiss-Ceramic-Skateboard-Bearings/dp/B001LF3T3S?pf_rd_p=387d50eb-83f8-4221-a708-8a1575a4a151&pd_rd_wg=nTAIU&pf_rd_r=FQRG4FVX89W54T4TSYVV&ref_=pd_gw_cr_simh&pd_rd_w=lS8Xe&pd_rd_r=782e6fd7-0a4f-4f86-8dad-aa3e008f6dd1"
+}
